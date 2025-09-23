@@ -1,0 +1,7 @@
+.vscode/
+# Ignore virtual environment
+.venv/
+
+# Ignore documentation
+docs/
+*.pdf
